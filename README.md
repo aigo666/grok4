@@ -345,17 +345,7 @@ def stream_chat_with_grok4(message):
 
 ### 网络连接问题
 
-```bash
-# 检查网络连接
-ping api.jisuai.top
-
-# 检查DNS解析
-nslookup api.jisuai.top
-
-# 使用备用DNS
-8.8.8.8
-114.114.114.114
-```
+国内外多集群支持 [https://jusu-api.apifox.cn/6516493m0](https://jusu-api.apifox.cn/6516493m0)
 
 ### API调用错误
 
